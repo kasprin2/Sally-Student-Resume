@@ -1,6 +1,8 @@
 body {
 	background-color: aquamarine;
 	font-family: Georgia;
+	border: solid blue;
+	max-width: 70ex;
 }
 header { 
 	border: solid blue; 
