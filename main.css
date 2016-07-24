@@ -6,13 +6,13 @@ header {
 	border: solid blue; 
 	max-width: 70ex;
 }
-main {
+section {
 	border: navy blue;
 	max-width: 70ex;
 
 }
 
-footer{
+address {
 	border: dotted blue
 	max-width: 70ex;
 }
