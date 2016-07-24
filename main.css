@@ -6,7 +6,7 @@ body {
 }
 header { 
 	border: solid blue; 
-	max-width: 70ex;
+	width: 100vw;
 }
 section {
 	border: navy blue;
