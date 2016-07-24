@@ -1,20 +1,38 @@
 body {
 	background-color: aquamarine;
 	font-family: Georgia;
-	text-align: center;
 
 }
 header { 
 	border: solid blue; 
 	width: 100vw;
-}
-section {
-	border: navy blue;
-	max-width: 70ex;
-
+	text-align: center;
 }
 
-address {
-	border: dotted blue
-	max-width: 70ex;
+nav {
+	margin-bottom: 4px;
 }
+main {
+	height: 70vh;
+}
+
+#profile-pic {
+	float:right;
+	margin-top:40px;
+	margin-right:15px;
+	
+}	
+
+#section1, #section2 {
+	margin: 8px 8px 8px 2px;
+}
+
+footer {
+	border: solid blue; 
+	width: 100vw;
+	text-align: center;
+}
+/* #section1, #section2{
+	float: left;
+} */
+
