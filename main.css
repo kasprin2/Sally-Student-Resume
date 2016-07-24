@@ -1,0 +1,18 @@
+body {
+	background-color: aquamarine;
+	font-family: Georgia;
+}
+header { 
+	border: solid blue; 
+	max-width: 70ex;
+}
+main {
+	border: navy blue;
+	max-width: 70ex;
+
+}
+
+footer{
+	border: dotted blue
+	max-width: 70ex;
+}
